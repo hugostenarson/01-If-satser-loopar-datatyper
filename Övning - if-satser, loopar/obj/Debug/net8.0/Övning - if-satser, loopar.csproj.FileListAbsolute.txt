@@ -1,0 +1,14 @@
+c:\Users\hugo.stenarson\Desktop\Prog 2\Övning - if-satser, loopar\Övning - if-satser, loopar\bin\Debug\net8.0\Övning - if-satser, loopar.exe
+c:\Users\hugo.stenarson\Desktop\Prog 2\Övning - if-satser, loopar\Övning - if-satser, loopar\bin\Debug\net8.0\Övning - if-satser, loopar.deps.json
+c:\Users\hugo.stenarson\Desktop\Prog 2\Övning - if-satser, loopar\Övning - if-satser, loopar\bin\Debug\net8.0\Övning - if-satser, loopar.runtimeconfig.json
+c:\Users\hugo.stenarson\Desktop\Prog 2\Övning - if-satser, loopar\Övning - if-satser, loopar\bin\Debug\net8.0\Övning - if-satser, loopar.dll
+c:\Users\hugo.stenarson\Desktop\Prog 2\Övning - if-satser, loopar\Övning - if-satser, loopar\bin\Debug\net8.0\Övning - if-satser, loopar.pdb
+c:\Users\hugo.stenarson\Desktop\Prog 2\Övning - if-satser, loopar\Övning - if-satser, loopar\obj\Debug\net8.0\Övning - if-satser, loopar.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\hugo.stenarson\Desktop\Prog 2\Övning - if-satser, loopar\Övning - if-satser, loopar\obj\Debug\net8.0\Övning - if-satser, loopar.AssemblyInfoInputs.cache
+c:\Users\hugo.stenarson\Desktop\Prog 2\Övning - if-satser, loopar\Övning - if-satser, loopar\obj\Debug\net8.0\Övning - if-satser, loopar.AssemblyInfo.cs
+c:\Users\hugo.stenarson\Desktop\Prog 2\Övning - if-satser, loopar\Övning - if-satser, loopar\obj\Debug\net8.0\Övning - if-satser, loopar.csproj.CoreCompileInputs.cache
+c:\Users\hugo.stenarson\Desktop\Prog 2\Övning - if-satser, loopar\Övning - if-satser, loopar\obj\Debug\net8.0\Övning - if-satser, loopar.dll
+c:\Users\hugo.stenarson\Desktop\Prog 2\Övning - if-satser, loopar\Övning - if-satser, loopar\obj\Debug\net8.0\refint\Övning - if-satser, loopar.dll
+c:\Users\hugo.stenarson\Desktop\Prog 2\Övning - if-satser, loopar\Övning - if-satser, loopar\obj\Debug\net8.0\Övning - if-satser, loopar.pdb
+c:\Users\hugo.stenarson\Desktop\Prog 2\Övning - if-satser, loopar\Övning - if-satser, loopar\obj\Debug\net8.0\Övning - if-satser, loopar.genruntimeconfig.cache
+c:\Users\hugo.stenarson\Desktop\Prog 2\Övning - if-satser, loopar\Övning - if-satser, loopar\obj\Debug\net8.0\ref\Övning - if-satser, loopar.dll
