@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Övning - if-satser, loopar")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dd5a4423bb4e546a1b01ccd96ad5f21995f63f1d")]
 [assembly: System.Reflection.AssemblyProductAttribute("Övning - if-satser, loopar")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Övning - if-satser, loopar")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

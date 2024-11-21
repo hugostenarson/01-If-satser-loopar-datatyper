@@ -12,3 +12,4 @@ c:\Users\hugo.stenarson\Desktop\Prog 2\Övning - if-satser, loopar\Övning - if-
 c:\Users\hugo.stenarson\Desktop\Prog 2\Övning - if-satser, loopar\Övning - if-satser, loopar\obj\Debug\net8.0\Övning - if-satser, loopar.pdb
 c:\Users\hugo.stenarson\Desktop\Prog 2\Övning - if-satser, loopar\Övning - if-satser, loopar\obj\Debug\net8.0\Övning - if-satser, loopar.genruntimeconfig.cache
 c:\Users\hugo.stenarson\Desktop\Prog 2\Övning - if-satser, loopar\Övning - if-satser, loopar\obj\Debug\net8.0\ref\Övning - if-satser, loopar.dll
+c:\Users\hugo.stenarson\Desktop\Prog 2\Övning - if-satser, loopar\Övning - if-satser, loopar\obj\Debug\net8.0\Övning - if-satser, loopar.sourcelink.json

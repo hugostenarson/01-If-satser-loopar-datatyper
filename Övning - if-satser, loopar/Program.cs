@@ -69,7 +69,7 @@
 // }
 // if (pass == "nopass")
 // {
-    
+
 // }
 
 
@@ -81,12 +81,39 @@
 //     string number = Console.ReadLine();
 //     int intNumber = Int32.Parse(number);
 //     loopCount += 1;
-    
+
 //     if (intNumber > 5)
 //     {
 //         Console.WriteLine("Högre än 5!");
 //     }
-    
+
 // }
 
+
+//Skriv en loop som körs så länge användaren skriver in en string som inte kan konverteras till en int (använd All(char.isDigit)-testet eller TryCatch / TryParse).
+
+using System.ComponentModel.DataAnnotations;
+using System.Runtime.CompilerServices;
+
+System.Console.WriteLine("Skriv in en string som inte kan konverteras till en int.");
+
+
+string noInt = Console.ReadLine();
+while (!int.TryParse(noInt, out int value))
+{
+if (Console.ReadLine() is string inputString) {
+    noInt = inputString;
+}
+// bool IsDigit(string noInt) {
+//     foreach (char c in noInt)
+//     {
+//         if (c < '0' || c > '9')
+//         {
+//             return false;
+//         }
+//     }
+// }
+
+// if (int.TryParse(noInt, out char.IsDigit))
+}
 Console.ReadLine();
